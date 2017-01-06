@@ -1,0 +1,21 @@
+* {
+    font-family: "Comic Sans MS", sans-serif;
+}
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#chicken{
+  background: #E7E7E7;
+}
+#beef{
+  background: #E7E7E7;
+}
+#sushi{
+  background: #E7E7E7;
+}
